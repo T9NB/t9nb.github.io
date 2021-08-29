@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CSS `accent-color`"
 date: 2021-08-30 09:00:00 +0900
 categories: css

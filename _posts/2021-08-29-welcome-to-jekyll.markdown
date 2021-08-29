@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "JavaScript 번들 또는 변환이 없는 최신 웹 앱"
 date: 2021-08-29 16:15:16 +0900
 categories: javascript
